@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryan9771
 - 👀 I’m a computer science student at Imperial College London! 
-- 🌱 In my respository are some of my programming languages notes, and possibly things that I find cool. Nothing really to show, its more of a personal code storage, but oh well, enjoy.
+- 🌱 I am new to the computing field, and hence, will be undertaking new learning opportunities over time. Therefore, my repos contain some of my programming languages notes, and possibly things that I find cool. Enjoy!
 
 <!---
 Ryan9771/Ryan9771 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
