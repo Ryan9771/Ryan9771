@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ryan9771
-- 👀 I’m a computer science student at Imperial College London! 
-- 🌱 I am new to the computing field, and hence, will be undertaking new learning opportunities over time. Therefore, my repos contain some of my programming languages notes, and possibly things that I find cool. Enjoy!
+## About Me
+I am Ryan! A current computing undergraduate at imperial college london. I enjoy learning new things, and applying these to practical applications. Hence, I love to take on new projects.
 
-<!---
-Ryan9771/Ryan9771 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Some things I know / am learning:
+Haskell, C, Java, JavaScript, Kotlin, Python, React-native, OpenCV, Flask, Webscraping - Request, Selenium, html, css etc!
+
+> Feel free to email me to collaborate on a project! 
