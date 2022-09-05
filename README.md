@@ -4,4 +4,4 @@ I am Ryan! A current computing undergraduate at imperial college london. I enjoy
 ## Some things I know / am learning:
 Haskell, C, Java, JavaScript, Kotlin, Python, React-native, OpenCV, Flask, Webscraping - Request, Selenium, html, css etc!
 
-> Feel free to email me to collaborate on a project! 
+> Feel free to email me to collaborate on a project! Email: `ryan.patel21@imperial.ac.uk`
